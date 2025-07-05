@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 60px 20px;
+  background: #fff;
+  color: #000;
+  font-family: 'Recursive', monospace;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.page {
+  max-width: 700px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.links {
+  margin-bottom: 3rem;
+  font-size: 0.95rem;
+}
+
+.links a {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.links a:hover {
+  background: #000;
+  color: #fff;
+  transition: 0.2s ease;
+}
+
+.project {
+  margin-bottom: 3rem;
+}
+
+.project h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.project p {
+  margin-top: 0;
+  color: #333;
+}
+
+.project a {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.project a:hover {
+  background: #000;
+  color: #fff;
+  transition: 0.2s ease;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #999;
+}
